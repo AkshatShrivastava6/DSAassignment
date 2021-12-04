@@ -2,7 +2,7 @@
 
 using namespace std;
 #include<iostream>
-#include<process.h>
+
 #define size 5
 class queue{
 	private:
@@ -132,7 +132,7 @@ int main(){
 
 using namespace std;
 #include<iostream>
-#include<process.h>
+
 class Node{
 	private:
 		int info;
